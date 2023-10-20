@@ -2,3 +2,5 @@
 
 
 dashboard 1 public link-https://public.tableau.com/shared/JNGSRBRMN?:display_count=n&:origin=viz_share_link
+
+dashboard 2 public link-https://public.tableau.com/views/Book2_16977934824780/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
